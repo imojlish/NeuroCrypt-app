@@ -65,12 +65,7 @@ streamlit run app.py
 
 ## 🌐 Deployment
 
-To deploy on Amazon EC2:
-- Launch a Linux VM
-- Install Python and pip
-- Upload app files using SCP or Git
-- Run: `streamlit run app.py --server.port 8501 --server.enableCORS false`
-- Access via: `http://<your-ec2-ip>:8501`
+https://neurocrypt-app-whg9urzjca6mtkv3v7dkl9.streamlit.app/
 
 ---
 
