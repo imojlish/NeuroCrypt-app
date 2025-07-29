@@ -1,7 +1,7 @@
 
 import streamlit as st
 
-# Dummy credentials
+# credentials
 USER_CREDENTIALS = {
     "admin": "admin123",
     "user": "password"
